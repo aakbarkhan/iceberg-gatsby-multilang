@@ -1,6 +1,6 @@
 backend:
     name: github
-    repo: diogorodrigues/iceberg-gatsby-multilang
+    repo: aakbarkhan/iceberg-gatsby-multilang
     branch: master
     site_domain: https://kind-swartz-abdc79.netlify.com/
 
